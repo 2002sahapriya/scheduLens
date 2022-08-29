@@ -1,14 +1,18 @@
 # scheduLens
-Technova hackathon project 2022
+Technova hackathon project 2022 - **WON SECOND PLACE FOR BEST CONNECTIVITY HACK**
 
 
 by Maryam, Sophia, Joy & Priya
 
 Devpost: https://devpost.com/software/schedulens#updates
+Figma: https://www.figma.com/file/VgHxRGIAYMEjvMbbtyTspv/Technova-2022-team-library?node-id=436%3A9
+
 
 Firebase credentials:
 - Email: technova@gmail.com
 - Password: r*******.
+
+
 
 Do you ever reach out to your friends to compare class schedules but forget who you have classes with when they roll around? Or have you wanted to know if any friends are in a specific class but it’s way too time consuming to ask everyone? Some university classes have over 2000 students, and with so many different profs, class times and classes, it’s a hassle to compare schedules and connect with your friends before classes start.
 
