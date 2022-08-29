@@ -4,8 +4,8 @@ Technova hackathon project 2022 - **WON SECOND PLACE FOR BEST CONNECTIVITY HACK*
 
 by Maryam, Sophia, Joy & Priya
 
-Devpost: https://devpost.com/software/schedulens#updates
-Figma: https://www.figma.com/file/VgHxRGIAYMEjvMbbtyTspv/Technova-2022-team-library?node-id=436%3A9
+- Devpost: https://devpost.com/software/schedulens#updates
+- Figma: https://www.figma.com/file/VgHxRGIAYMEjvMbbtyTspv/Technova-2022-team-library?node-id=436%3A9
 
 
 Firebase credentials:
